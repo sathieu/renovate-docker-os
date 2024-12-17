@@ -26,6 +26,6 @@ Like for arcvhitecture, os should not be changed.
 
 ## Link to the Renovate issue or Discussion
 
-Put your link to the Renovate issue or Discussion here.
+Renovate Discussion: https://github.com/renovatebot/renovate/discussions/33166.
 
 Production repo commit: https://gitlab.com/kubitus-project/kubitus-installer/-/commit/627599740756f69f46458aebc40c53d176f66c52?merge_request_iid=3550
