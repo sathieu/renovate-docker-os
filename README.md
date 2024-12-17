@@ -22,7 +22,7 @@ which is `os=windows` `architecture=amd64`
 
 ## Expected behavior
 
-Like for arcvhitecture, os should not be changed.
+Like for architecture, os should not be changed.
 
 ## Link to the Renovate issue or Discussion
 
